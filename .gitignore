@@ -1,0 +1,7 @@
+.env
+NOTES.md
+
+.DS_STORE
+/build
+/node_modules
+.env*.local
